@@ -19,23 +19,6 @@ lib.logged_in_users
 lib.logout_user('John Do')
 lib.logged_in_users
 
-# library = Library.new
-
-# # Register a new user
-# library.register_user('john_doe', 'password123', 'admin')
-
-# # Login with valid credentials
-# library.login_user('john_doe', 'password123')
-
-# # Show logged-in users
-# library.show_logged_in_users
-
-# # Logout
-# library.logout_user('john_doe')
-
-# # Show logged-in users after logout
-# library.show_logged_in_users
-
 
 
 
